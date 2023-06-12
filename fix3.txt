@@ -1,0 +1,7 @@
+This is fixture 3 added safe changes
+
+
+changes made to fixture 3
+
+dev 1 added changes
+
